@@ -1,0 +1,5 @@
+vendor/
+cache/
+.idea
+Guardfile
+tests/Coverage
